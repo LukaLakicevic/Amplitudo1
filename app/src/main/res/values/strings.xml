@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Amplitudo</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="send_SMS">Send SMS</string>
+    <string name="add_to_contact">Add to contact</string>
+    <string name="btn0">0</string>
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+    <string name="btn6">6</string>
+    <string name="btn7">7</string>
+    <string name="btn8">8</string>
+    <string name="btn9">9</string>
+    <string name="btn_star">*</string>
+    <string name="btn_hash">#</string>
+</resources>
